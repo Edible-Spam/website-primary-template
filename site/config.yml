@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: Edible-Spam/website-primary-template # Path to your Github repository
+  branch: master # Branch to update (master by default)
