@@ -1,8 +1,8 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Reality Punk"
 theme = "hugo-theme-casper"
-disqusShortname = ""
+#disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -11,15 +11,15 @@ canonifyurls = true
 
 [params]
   description = "Misc misc misc"
-  cover = "images/ig9wrh7rsqz21.jpg"
+  cover = "images/cover.jpg"
   author = "Sam Davies"
   authorlocation = "Melbourne, Australia"
   authorwebsite = "realitypunk.com"
-  bio= "my bio"
+  bio= "I am easting toast"
   logo = "images/logo.png"
-  googleAnalyticsUserID = "NA"
+  #googleAnalyticsUserID = "NA"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/realitypunk.com"
+  #RSSLink = "http://feeds.feedburner.com/realitypunk.com"
   githubName = "Edible-Spam"
   twitterName = "Edible_Spam"
   # facebookName = ""
