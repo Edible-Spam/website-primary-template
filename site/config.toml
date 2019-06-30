@@ -11,7 +11,7 @@ canonifyurls = true
 
 [params]
   description = "Misc misc misc"
-  cover = "images/cover.jpg"
+  cover = "images/cover2.jpg"
   author = "Sam Davies"
   authorlocation = "Melbourne, Australia"
   authorwebsite = "realitypunk.com"
